@@ -122,11 +122,11 @@ MonoBehaviour:
   targetRigidbody2D: {fileID: 0}
   targetTransform: {fileID: 7492168520568274115}
   _result:
-    position: {x: 0, y: 0, z: 7.8168726}
-    up: {x: 0, y: 1.00675, z: 0}
-    forward: {x: 0, y: 0, z: 1}
-    color: {r: 1, g: 1, b: 1, a: 1}
-    size: 1
+    position: {x: 0, y: 0, z: 0}
+    up: {x: 0, y: 0, z: 0}
+    forward: {x: 0, y: 0, z: 0}
+    color: {r: 0, g: 0, b: 0, a: 0}
+    size: 0
     percent: 0.02500000037252903
   _finalResult:
     position: {x: 0, y: 0, z: 7.8168726}
@@ -303,7 +303,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Rich
+  m_text: Poor
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ed871e2b7f658cb49aae1c28016b8a65, type: 2}
   m_sharedMaterial: {fileID: 7333648056826354792, guid: ed871e2b7f658cb49aae1c28016b8a65, type: 2}
